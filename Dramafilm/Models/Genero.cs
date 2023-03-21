@@ -4,5 +4,5 @@ namespace Dramafilm.Models;
     {
       //Atributos
       public string Nome {get; set;} 
-      public string genero {get; set;} 
+      public string Cor {get; set;} 
     }
