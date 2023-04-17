@@ -1,74 +1,66 @@
 ﻿[
   {
-    "Nome": "Aço",
+    "Nome": "Ação",
     "Cor": "#aab"
   },
   {
-    "Nome": "Água",
+    "Nome": "Aventura",
     "Cor": "#39f"
   },
   {
-    "Nome": "Dragão",
+    "Nome": "Comédia",
     "Cor": "#76e"
   },
   {
-    "Nome": "Elétrico",
+    "Nome": "Comédia Romântica",
     "Cor": "#fc3"
   },
   {
-    "Nome": "Fada",
+    "Nome": "Criminal",
+    "Cor": "#ff4"
+  },
+  {
+    "Nome": "Drama",
     "Cor": "#e9e"
   },
   {
-    "Nome": "Fantasma",
+    "Nome": "Fantasia",
     "Cor": "#66b"
   },
   {
-    "Nome": "Fogo",
+    "Nome": "Ficção Científica",
     "Cor": "#f42"
   },
   {
-    "Nome": "Gelo",
+    "Nome": "Noir",
     "Cor": "#6cf"
   },
   {
-    "Nome": "Inseto",
+    "Nome": "Policial",
     "Cor": "#ab6"
   },
   {
-    "Nome": "Lutador",
+    "Nome": "Romance",
     "Cor": "#b54"
   },
   {
-    "Nome": "Normal",
+    "Nome": "Suspense",
     "Cor": "#aa9"
   },
   {
-    "Nome": "Pedra",
+    "Nome": "Sobrevivência",
     "Cor": "#ba6"
   },
   {
-    "Nome": "Planta",
-    "Cor": "#7c5"
-  },
-  {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
-  },
-  {
-    "Nome": "Sombrio",
-    "Cor": "#754"
-  },
-  {
-    "Nome": "Terrestre",
+    "Nome": "Terror",
     "Cor": "#db5"
   },
   {
-    "Nome": "Venenoso",
+    "Nome": "Tragédia",
     "Cor": "#a59"
   },
   {
-    "Nome": "Voador",
+    "Nome": "Vingança",
     "Cor": "#89f"
   }
 ]
