@@ -1,12 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Dramafilm.Models;
+using Dramafilm.Services;
 
 namespace Dramafilm.Services
 {
     public interface IFilmeServices
     {
-        
+        List<Series> GetSeries();
+        List<Genero> GetGenero();
+        Genero GetGenero(int Numero);
+
     }
 }

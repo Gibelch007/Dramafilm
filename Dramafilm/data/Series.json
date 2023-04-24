@@ -34,73 +34,73 @@
   {
     "Nome": "Jirirsan",
     "Descricao": "Em Jirisan, acompanhamos os guardas florestais Seo Yi Kang ( Jun Ji Hyun), uma das melhores do ramo, e Kang Hyun Jo (Joo Ji Hoon), um ex-tenente militar que decidiu  proteger as pessoas depois de sofrer um acidente na montanha. Eles patrulham o Parque Nacional de Jirisan, criado em volta do Monte Jiri, uma das três montanhas sagradas da Coréia. O Parque e a montanha recebem centenas de visitantes diariamente, e quando rumores sobre áreas inexploradas e misteriosas começam a surgir, os dois resolvem formar uma equipe especial para investigar.",
-    "País de Origem": "Coréia do Sul",
+    "PaisOrigem": "Coréia do Sul",
     "Genero": [ "Drama", "Mistério", "Fantasia" ] ,
-    "Imagem": "\\img\\pokemons\\005.jpg",
+    "Imagem": "\\img\\Series\\005.jpg",
     "Temporadas": 1
   },
   {
     "Nome": "Love 020",
     "Descricao": "Quando uma especialista em ciência da computação é largada pelo 'marido' num jogo de RPG online, ela chama a atenção do melhor jogador.",
-    "País de Origem": "China",
+    "PasOrigem": "China",
     "Genero": [ "Comédia Romântica" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Imagem": "\\img\\Series\\006.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "Love between fairy and devil",
+    "Descricao": "Uma fada acaba revivendo um poderoso demônio meio sem querer. Agora, o destino dos dois está cosmicamente ligado e o mundo vai virar de cabeça para baixo.",
+    "PaisOrigem": "China",
+    "Genero": [ "Romance", "Fantasia" ] ,
+    "Imagem": "\\img\\Series\\007.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "O Rei Eterno",
+    "Descricao": "Um imperador coreano passa por um portal misterioso e entra em um mundo paralelo onde conhece uma detetive obstinada.",
+    "PaisOrigem": "Coreia do Sul",
+    "Genero": [ "Fantasia", "Romance", "Drama", "Ficção Científica", "Mistério"],
+    "Imagem": "\\img\\Series\\008.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "Pousando no Amor",
+    "Descricao": "Um acidente de parapente leva uma herdeira sul-coreana à Coreia do Norte. Lá, ela acaba conhecendo um oficial do exército, que vai ajudá-la a se esconder.",
+    "PaisOrigem": "Coreia do Sul",
+    "Genero": [ "Comédia Romântica" ] ,
+    "Imagem": "\\img\\Series\\009.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "Vincenzo",
+    "Descricao": "Ao visitar sua terra natal, um advogado coreano que trabalha para a máfia italiana se envolve em uma batalha contra um poderoso conglomerado e faz justiça a seu modo.",
+    "PaisOrigem": "Coreia do Sul",
+    "Genero": [ "Drama", "Criminal" ] ,
+    "Imagem": "\\img\\Series\\010.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "Well intended love",
+    "Descricao": "Para garantir a medula óssea que pode salvar sua vida, uma atriz faz um pacto com um jovem executivo, sem saber que amor e segredos podem atrapalhar os seus planos.",
+    "PaisOrigem": "China",
+    "Genero": [ "Drama", "Romance" ] ,
+    "Imagem": "\\img\\Series\\011.jpg",
+    "Temporadas": 2
+  },
+  {
+    "Nome": "Globin",
+    "Descricao": "Kim Shin é um ser imortal responsável por proteger as almas humanas. Contudo, ele sofre de uma maldição que só pode ser quebrada caso o rapaz consiga se casar.",
+    "PaisOrigem": "Coreia do Sul",
+    "Genero": [ "Romance", "Drama", "Fantasia" ] ,
+    "Imagem": "\\img\\Series\\012.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
-    "Temporadas": 1
-  },
-  {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "Vinte cinco, Vinte um",
+    "Descricao": "Na Hee-do é membro do time de esgrima de sua escola, mas devido a uma crise na educação sul-coreana o esporte é cortado do currículo. Mas ela consegue entrar para uma equipe nacional de esgrima. Já Baek Yi-Jin vê o negócio do seu pai ir a falência. Isso acaba levando a uma mudança drástica na vida do garoto que perto todos os confortos que tinha.",
+    "PaisOrigem": "Coreia do Sul",
+    "Genero": [ "Drama", "Romance" ] ,
+    "Imagem": "\\img\\Series\\013.jpg",
     "Temporadas": 1
   }
 ]
