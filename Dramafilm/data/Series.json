@@ -32,18 +32,18 @@
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
-    "Imagem": "\\img\\pokemons\\001.png",
+    "Nome": "Jirirsan",
+    "Descricao": "Em Jirisan, acompanhamos os guardas florestais Seo Yi Kang ( Jun Ji Hyun), uma das melhores do ramo, e Kang Hyun Jo (Joo Ji Hoon), um ex-tenente militar que decidiu  proteger as pessoas depois de sofrer um acidente na montanha. Eles patrulham o Parque Nacional de Jirisan, criado em volta do Monte Jiri, uma das três montanhas sagradas da Coréia. O Parque e a montanha recebem centenas de visitantes diariamente, e quando rumores sobre áreas inexploradas e misteriosas começam a surgir, os dois resolvem formar uma equipe especial para investigar.",
+    "País de Origem": "Coréia do Sul",
+    "Genero": [ "Drama", "Mistério", "Fantasia" ] ,
+    "Imagem": "\\img\\pokemons\\005.jpg",
     "Temporadas": 1
   },
   {
-    "Nome": "Bulbasaur",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "País de Origem": "Seed",
-    "Genero": [ "Planta", "Venenoso" ] ,
+    "Nome": "Love 020",
+    "Descricao": "Quando uma especialista em ciência da computação é largada pelo 'marido' num jogo de RPG online, ela chama a atenção do melhor jogador.",
+    "País de Origem": "China",
+    "Genero": [ "Comédia Romântica" ] ,
     "Imagem": "\\img\\pokemons\\001.png",
     "Temporadas": 1
   },
